@@ -1,8 +1,8 @@
 # e-commerceApp
 Created a simple e-commerce App 
 with codesandbox.
-By using the concepts Router,useContext,useParams
-and useState,useEffect.
+By using the concepts of hooks like useContext,useParams
+and useState,useEffect and also Router.
 In this App Product Listing page is provided which display  the User a list of different products .
 when the User clicks on view Item link than it shows the complete details of the that particular product to the User.
 when the User Click  on the add to cart  button than that item gets addded to  MyCart Page.
