@@ -1,5 +1,5 @@
 # e-commerceApp
-Created a simple e-commerce App 
+Created a simple e-commerce App  using React
 with codesandbox.
 By using the concepts of hooks like useContext,useParams
 and useState,useEffect and also Router.
